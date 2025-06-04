@@ -1,13 +1,12 @@
 {
   "name": "visitor-bot",
   "version": "1.0.0",
-  "description": "Bot visitor dengan proxy Indonesia dan user-agent acak",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "axios": "^1.6.7",
-    "https-proxy-agent": "^7.0.2"
+    "https-proxy-agent": "^5.0.1"
   }
 }
